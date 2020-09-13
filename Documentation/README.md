@@ -13,10 +13,10 @@
 - [Video 1]()
 
 ## Kernels:
-- [Kernel 1]()
+- [OpenVaccine: Simple GRU Model](https://www.kaggle.com/xhlulu/openvaccine-simple-gru-model)
 
 ## Discussions:
-- [Discussion 1]()
+- [Understanding my baseline GRU model](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/182303)
  
 ## Insights:
 - ### Positive Insights
