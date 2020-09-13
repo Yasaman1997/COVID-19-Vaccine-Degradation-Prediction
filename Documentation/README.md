@@ -1,4 +1,4 @@
-# {Competition Name} - Documentation
+# OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction - Documentation
 
 ## Relevant content:
 - [Content 1]()
