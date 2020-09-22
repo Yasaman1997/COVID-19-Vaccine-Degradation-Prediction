@@ -44,3 +44,17 @@
 | 32-OpenVaccine-Single CNN using bpps | ??? | 0.819833 | ??? | ??? |
 | 33-OpenVaccine-Using bpps max and sum | ??? | 0.820465 | ??? | ??? |
 | 34-OpenVaccine-Using bpps max, sum and mean | ??? | 0.819293 | ??? | ??? |
+| 35-OpenVaccine-SN_filter clean data | ??? | 0.222115 | 0.25790 | ??? |
+| 36-OpenVaccine-signal_to_noise clean data | ??? | 0.221072 | 0.25487 | ??? |
+| 37-OpenVaccine-CNN-LSTM | ??? | 0.229228 | ??? | ??? |
+| 38-OpenVaccine-Multi-output mse loss | ??? | 0.222786 | 0.25513 | ??? |
+| 39-OpenVaccine-Multi-output weighted loss | ??? | 0.222065 | 0.25374 | ??? |
+| 40-OpenVaccine-bpps scaled | ??? | 0.222417 | 0.25344 | ??? |
+| 41-OpenVaccine-weighted samples | ??? | 0.218368 | 0.25216 | ??? |
+| 42-OpenVaccine-Conv categorical features | ??? | 0.219478 | 0.25539 | ??? |
+| 43-OpenVaccine-Numerical features and conv | ??? | 0.219408 | ??? | ??? |
+| 44-OpenVaccine-41 SN clean data | ??? | 0.223645 | ??? | ??? |
+| 45-OpenVaccine-Embedding-GRU | ??? | 0.221293 | 0.25610 | ??? |
+| 46-OpenVaccine-Embedding-GRU sample weight v2 | ??? | 0.221598 | 0.25613 | ??? |
+| 47-OpenVaccine-Embedding-GRU 60 epochs | ??? | 0.222528 | 0.25616 | ??? |
+| 48-OpenVaccine-Embedding-GRU sample weight v3 | ??? | 0.222777 | 0.25617 | ??? |
