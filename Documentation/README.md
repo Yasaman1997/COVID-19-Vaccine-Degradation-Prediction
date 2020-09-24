@@ -12,7 +12,7 @@
 - [Git repository]()
 
 ## Papers:
-- [Paper]()
+- [ON THE RELATIONSHIP BETWEEN SELF-ATTENTION AND CONVOLUTIONAL LAYERS](https://openreview.net/pdf?id=HJlnC1rKPB)
 
 ## Videos:
 - [Protein function prediction by neural networks - Cambridge ML Summit ‘19](https://www.youtube.com/watch?v=x-35bDrKfHA)
