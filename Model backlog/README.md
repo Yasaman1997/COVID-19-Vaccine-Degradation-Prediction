@@ -58,3 +58,21 @@
 | 46-OpenVaccine-Embedding-GRU sample weight v2 | ??? | 0.221598 | 0.25613 | ??? |
 | 47-OpenVaccine-Embedding-GRU 60 epochs | ??? | 0.222528 | 0.25616 | ??? |
 | 48-OpenVaccine-Embedding-GRU sample weight v3 | ??? | 0.222777 | 0.25617 | ??? |
+| 49-OpenVaccine-Embedding-GRU public | ??? | 0.223156 | ??? | ??? |
+| 50-OpenVaccine-Embedding-GRU public v2 | ??? | 0.223657 | ??? | ??? |
+| 51-OpenVaccine-Embedding-GRU public v3 | ??? | 0.223291 | ??? | ??? |
+| 52-OpenVaccine-Embedding-GRU refactor | ??? | 0.222097 | ??? | ??? |
+| 53-OpenVaccine-Embedding-CNN-GRU | ??? | 0.222078 | 0.25341 | ??? |
+| 54-OpenVaccine-Embedding-CNN-GRU 2 blocks | ??? | 0.220330 | 0.25274 | ??? |
+| 55-OpenVaccine-Embedding-Wavenet-GRU | ??? | 0.223454 | ??? | ??? |
+| 56-OpenVaccine-Embedding-GRU param | ??? | 0.223220 | ??? | ??? |
+| 57-OpenVaccine-Embedding-CNN-GRU v2 | ??? | 0.221438 | 0.25429 | ??? |
+| 58-OpenVaccine-Embedding-CNN-GRU weighted loss | ??? | 0.222899 | ??? | ??? |
+| 59-OpenVaccine-CNN-GRU weighted samples v2 | ??? | 0.219665 | 0.25234 | ??? |
+| 60-OpenVaccine-CNN-BiGRU self-attention | ??? | 0.220485 | 0.25230 | ??? |
+| 61-OpenVaccine-Seq2Seq | ??? | 0.219816 | 0.25299 | ??? |
+| 62-OpenVaccine-Seq2Seq Luong Attention | ??? | 0.221843 | ??? | ??? |
+| 63-OpenVaccine-Seq2Seq no initial_state | ??? | 0.220592 | ??? | ??? |
+| 64-OpenVaccine-TF Luong Attention | ??? | 0.221517 | 0.25265 | ??? |
+| 65-OpenVaccine-TF Bahdanau AdditiveAttention | ??? | 0.220556 | 0.25205 | ??? |
+| 66-OpenVaccine-TF Bahdanau Attention batchnorm | ??? | 0.234599 | ??? | ??? |
