@@ -1,6 +1,11 @@
 # OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction - Documentation
 
 ## Relevant content:
+- [Building Seq2Seq LSTM with Luong Attention in Keras for Time Series Forecasting](https://levelup.gitconnected.com/building-seq2seq-lstm-with-luong-attention-in-keras-for-time-series-forecasting-1ee00958decb)
+- [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+- [Content]()
+- [Content]()
+- [Content]()
 - [Content]()
 
 ## GitHub:
