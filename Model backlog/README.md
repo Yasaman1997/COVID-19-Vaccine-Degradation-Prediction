@@ -76,9 +76,10 @@
 | 64-OpenVaccine-TF Luong Attention | ??? | 0.221517 | 0.25265 | ??? |
 | 65-OpenVaccine-TF Bahdanau AdditiveAttention | ??? | 0.220556 | 0.25205 | ??? |
 | 66-OpenVaccine-TF Bahdanau Attention batchnorm | ??? | 0.234599 | ??? | ??? |
-| 67-OpenVaccine-TF Bahdanau AdditiveAttention bs32 | ??? | 0.219054 | ??? | ??? |
-| 68-OpenVaccine-TF Bahdanau Attention safe features | ??? | 0.220838 | ??? | ??? |
-| 69-OpenVaccine-TF Bahdanau Attention no mean | ??? | 0.220008 | ??? | ??? |
+| 67-OpenVaccine-TF Bahdanau AdditiveAttention bs32 | ??? | 0.219054 | 0.25120 | ??? |
+| 68-OpenVaccine-TF Bahdanau Attention safe features | ??? | 0.220838 | 0.25355 | ??? |
+| 69-OpenVaccine-TF Bahdanau Attention no mean | ??? | 0.220008 | 0.25111 | ??? |
 | 70-OpenVaccine-TF Bahdanau Attention spatial_025 | ??? | 0.219605 | ??? | ??? |
-| 71-OpenVaccine-Embed-GRU-SelfAttention spatial | ??? | 0.222202 | ??? | ??? |
-| 72-OpenVaccine-SharedEmbed-GRU-SelfAttention spati | ??? | 0.221293 | ??? | ??? |
+| 71-OpenVaccine-Embed-GRU-SelfAttention spatial | ??? | 0.222202 | 0.25305 | ??? |
+| 72-OpenVaccine-SharedEmbed-GRU-SelfAttention spati | ??? | 0.221293 | 0.25223 | ??? |
+| 73-OpenVaccine-TF Bahdanau Attention SN_filter | ??? | 0.223864 | ??? | ??? |
