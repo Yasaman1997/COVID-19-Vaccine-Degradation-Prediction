@@ -72,7 +72,13 @@
 | 60-OpenVaccine-CNN-BiGRU self-attention | ??? | 0.220485 | 0.25230 | ??? |
 | 61-OpenVaccine-Seq2Seq | ??? | 0.219816 | 0.25299 | ??? |
 | 62-OpenVaccine-Seq2Seq Luong Attention | ??? | 0.221843 | ??? | ??? |
-| 63-OpenVaccine-Seq2Seq no initial_state | ??? | 0.220592 | ??? | ??? |
+| 63-OpenVaccine-Seq2Seq no initial_state | ??? | 0.220592 | 0.25295 | ??? |
 | 64-OpenVaccine-TF Luong Attention | ??? | 0.221517 | 0.25265 | ??? |
 | 65-OpenVaccine-TF Bahdanau AdditiveAttention | ??? | 0.220556 | 0.25205 | ??? |
 | 66-OpenVaccine-TF Bahdanau Attention batchnorm | ??? | 0.234599 | ??? | ??? |
+| 67-OpenVaccine-TF Bahdanau AdditiveAttention bs32 | ??? | 0.219054 | ??? | ??? |
+| 68-OpenVaccine-TF Bahdanau Attention safe features | ??? | 0.220838 | ??? | ??? |
+| 69-OpenVaccine-TF Bahdanau Attention no mean | ??? | 0.220008 | ??? | ??? |
+| 70-OpenVaccine-TF Bahdanau Attention spatial_025 | ??? | 0.219605 | ??? | ??? |
+| 71-OpenVaccine-Embed-GRU-SelfAttention spatial | ??? | 0.222202 | ??? | ??? |
+| 72-OpenVaccine-SharedEmbed-GRU-SelfAttention spati | ??? | 0.221293 | ??? | ??? |
