@@ -83,3 +83,7 @@
 | 71-OpenVaccine-Embed-GRU-SelfAttention spatial | ??? | 0.222202 | 0.25305 | ??? |
 | 72-OpenVaccine-SharedEmbed-GRU-SelfAttention spati | ??? | 0.221293 | 0.25223 | ??? |
 | 73-OpenVaccine-TF Bahdanau Attention SN_filter | ??? | 0.223864 | ??? | ??? |
+| 74-OpenVaccine-Embedding-Conv-BiGRU | ??? | 0.220054 | 0.25338 | ??? |
+| 75-OpenVaccine-6xConv-BiGRU | ??? | 0.218725 | 0.25180 | ??? |
+| 76-OpenVaccine-1xConv-BiGRU | ??? | 0.218959 | 0.25229 | ??? |
+| 77-OpenVaccine-6xConv-BiGRU kernel_3 | ??? | 0.218291 | 0.25145 | ??? |
