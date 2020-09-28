@@ -87,3 +87,10 @@
 | 75-OpenVaccine-6xConv-BiGRU | ??? | 0.218725 | 0.25180 | ??? |
 | 76-OpenVaccine-1xConv-BiGRU | ??? | 0.218959 | 0.25229 | ??? |
 | 77-OpenVaccine-6xConv-BiGRU kernel_3 | ??? | 0.218291 | 0.25145 | ??? |
+| 78-OpenVaccine-6xConv-2xConv-BiGRU | ??? | 0.219032 | 0.25210 | ??? |
+| 79-OpenVaccine-6xConv-1xConv-BiGRU | ??? | 0.218292 | 0.25167 | ??? |
+| 80-OpenVaccine-6xConv(swish)-BiGRU | ??? | 0.220396 | ??? | ??? |
+| 81-OpenVaccine-6xConv-BiGRU kernel_3 clean valid | ??? | 0.218237 | 0.25146 | ??? |
+| 82-OpenVaccine-Embedding-4xConv-BiGRU | ??? | 0.218498 | 0.25219 | ??? |
+| 83-OpenVaccine-6xConv-BiGRU-Attention | ??? | 0.220298 | ??? | ??? |
+| 84-OpenVaccine-6xConv-BiGRU-AdditiveAttention | ??? | 0.220986 | ??? | ??? |
