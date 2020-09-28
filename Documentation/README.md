@@ -3,9 +3,8 @@
 ## Relevant content:
 - [Building Seq2Seq LSTM with Luong Attention in Keras for Time Series Forecasting](https://levelup.gitconnected.com/building-seq2seq-lstm-with-luong-attention-in-keras-for-time-series-forecasting-1ee00958decb)
 - [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
-- [Content]()
-- [Content]()
-- [Content]()
+- [Simple Keras Transformer Model](https://medium.com/@max_garber/simple-keras-transformer-model-74724a83bb83)
+- [Transformer model for language understanding](https://www.tensorflow.org/tutorials/text/transformer)
 - [Content]()
 
 ## GitHub:
