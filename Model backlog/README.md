@@ -98,6 +98,6 @@
 | 86-OpenVaccine-6xConv-BiGRU augmented train_valid | ??? | 0.220517 | ??? | ??? |
 | 87-OpenVaccine-6xConv-BiGRU augmented sampling_5 | ??? | 0.217861 | 0.25010 | ??? |
 | 88-OpenVaccine-6xConv-BiGRU aug sampling_5 v2 | ??? | 0.217843 | 0.25041 | ??? |
-| 89-OpenVaccine-6xConv-BiGRU aug samp_5 same_weight | ??? | 0.25004 | 0.219151 | ??? |
+| 89-OpenVaccine-6xConv-BiGRU aug samp_5 same_weight | ??? | 0.219151 | 0.25004 | ??? |
 | 90-OpenVaccine-6xConv-BiGRU aug samp weighted_los5 | ??? | 0.218046 | 0.24966 | ??? |
 | 91-OpenVaccine-6xConv-BiGRU aug samp 3_targets | ??? | 0.218801 | 0.25113 | ??? |
