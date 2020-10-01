@@ -101,3 +101,8 @@
 | 89-OpenVaccine-6xConv-BiGRU aug samp_5 same_weight | ??? | 0.219151 | 0.25004 | ??? |
 | 90-OpenVaccine-6xConv-BiGRU aug samp weighted_los5 | ??? | 0.218046 | 0.24966 | ??? |
 | 91-OpenVaccine-6xConv-BiGRU aug samp 3_targets | ??? | 0.218801 | 0.25113 | ??? |
+| 92-OpenVaccine-6xConv-BiGRU trainTestAug same weig | ??? | 0.219282 | 0.24957 | ??? |
+| 93-OpenVaccine-6xConv-BiGRU trainTestAug loss_5 | ??? | 0.218046 | 0.24927 | ??? |
+| 94-OpenVaccine-Embedding-4xConv-BiG trainTestAug | ??? | 0.218468 | 0.25177 | ??? |
+| 95 | ??? | ??? | ??? | ??? |
+| 96-OpenVaccine-6xConv-BiGRU Aug reversed same_weig | ??? | 0.222520 | 0.25063 | ??? |
