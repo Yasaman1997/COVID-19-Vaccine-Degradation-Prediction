@@ -106,3 +106,6 @@
 | 94-OpenVaccine-Embedding-4xConv-BiG trainTestAug | ??? | 0.218468 | 0.25177 | ??? |
 | 95 | ??? | ??? | ??? | ??? |
 | 96-OpenVaccine-6xConv-BiGRU Aug reversed same_weig | ??? | 0.222520 | 0.25063 | ??? |
+| 97-OpenVaccine-6xConv-BiGRU trainTestAug conv init | ??? | 0.218020 | 0.24954 | ??? |
+| 98-OpenVaccine-6xConv-BiGRU trainTestAug init los5 | ??? | 0.217409 | 0.25008 | ??? |
+| 99-OpenVaccine-Embedding-4xConv-BiGRU init loss5 | ??? | 0.218398 | 0.25185 | ??? |
