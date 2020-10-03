@@ -5,7 +5,9 @@
 - [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 - [Simple Keras Transformer Model](https://medium.com/@max_garber/simple-keras-transformer-model-74724a83bb83)
 - [Transformer model for language understanding](https://www.tensorflow.org/tutorials/text/transformer)
-- [Content]()
+- [Text classification with Transformer](https://keras.io/examples/nlp/text_classification_with_transformer/)
+- [Neural machine translation with attention](https://www.tensorflow.org/tutorials/text/nmt_with_attention#write_the_encoder_and_decoder_model)
+- [https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/](https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/)
 
 ## GitHub:
 - [Git repository]()
