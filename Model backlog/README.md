@@ -104,7 +104,7 @@
 | 92-OpenVaccine-6xConv-BiGRU trainTestAug same weig | ??? | 0.219282 | 0.24957 | ??? |
 | 93-OpenVaccine-6xConv-BiGRU trainTestAug loss_5 | ??? | 0.218046 | 0.24927 | ??? |
 | 94-OpenVaccine-Embedding-4xConv-BiG trainTestAug | ??? | 0.218468 | 0.25177 | ??? |
-| 95 | ??? | ??? | ??? | ??? |
+| 95-OpenVaccine-6xConv-BiLSTM trainTestAug loss 5 | ??? | 0.221424 | ??? | ??? |
 | 96-OpenVaccine-6xConv-BiGRU Aug reversed same_weig | ??? | 0.222520 | 0.25063 | ??? |
 | 97-OpenVaccine-6xConv-BiGRU trainTestAug conv init | ??? | 0.218020 | 0.24954 | ??? |
 | 98-OpenVaccine-6xConv-BiGRU trainTestAug init los5 | ??? | 0.217409 | 0.25008 | ??? |
@@ -114,3 +114,4 @@
 | 102-OpenVaccine-Embedding-4xConv-BiGRU pretrain | ??? | 0.221320 | ??? | ??? |
 | 103-OpenVaccine-1xConv-BiGRU-PosEmbed | ??? | 0.218099 | 0.25051 | ??? |
 | 104-OpenVaccine-1xConv-BiGRU-PosEmbed pretrain | ??? | 0.225439 | ??? | ??? |
+| 105-OpenVaccine-6xConv-BiGRU trainTestAug fake lbl | ??? | 0.218317 | ??? | ??? |
