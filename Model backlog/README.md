@@ -112,3 +112,5 @@
 | 100-OpenVaccine-1xConv-BiGRU trainTestAug init | ??? | 0.218091 | 0.25074 | ??? |
 | 101-OpenVaccine-1xConv-BiGRU pretrain | ??? | 0.224682 | ??? | ??? |
 | 102-OpenVaccine-Embedding-4xConv-BiGRU pretrain | ??? | 0.221320 | ??? | ??? |
+| 103-OpenVaccine-1xConv-BiGRU-PosEmbed | ??? | 0.218099 | 0.25051 | ??? |
+| 104-OpenVaccine-1xConv-BiGRU-PosEmbed pretrain | ??? | 0.225439 | ??? | ??? |
