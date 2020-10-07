@@ -1,8 +1,5 @@
 ![](https://github.com/dimitreOliveira/COVID-19-Vaccine-Degradation-Prediction/blob/master/Assets/banner.png?raw=true)
 
-## About the repository
-{Competition abouts}
-
 ### Published Kaggle kernels:
 
 ### What you will find
