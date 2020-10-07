@@ -115,3 +115,4 @@
 | 103-OpenVaccine-1xConv-BiGRU-PosEmbed | ??? | 0.218099 | 0.25051 | ??? |
 | 104-OpenVaccine-1xConv-BiGRU-PosEmbed pretrain | ??? | 0.225439 | ??? | ??? |
 | 105-OpenVaccine-6xConv-BiGRU trainTestAug fake lbl | ??? | 0.218317 | ??? | ??? |
+| 106-OpenVaccine-6xConv-BiGRU-Attn augment loss_5 | ??? | 0.219023 | 0.24960 | 0.42081 |
