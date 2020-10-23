@@ -12,6 +12,7 @@
 - [Create The Transformer With Tensorflow 2.0](https://machinetalk.org/2019/04/29/create-the-transformer-with-tensorflow-2-0/)
 - [Illustrated Guide to Transformers- Step by Step Explanation](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
 - [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+- [Time series forecasting(Tensorflow)](https://www.tensorflow.org/tutorials/structured_data/time_series)
 
 ## Papers:
 - [ON THE RELATIONSHIP BETWEEN SELF-ATTENTION AND CONVOLUTIONAL LAYERS](https://openreview.net/pdf?id=HJlnC1rKPB)
@@ -28,7 +29,7 @@
 - [Understanding my baseline GRU model](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/182303)
 - [A gentle introduction to the world of DNA, mRNA and the mechanics of the Open Covid vaccine in plain English](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/182320)
 - [RNA visualization](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/182177)
-- [Augmentation of sequences while using the same target values](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/186078
+- [Augmentation of sequences while using the same target values](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/186078)
  
 ## Insights:
 - ### Positive Insights
